@@ -4,3 +4,6 @@ h1{
 nav{
     text-align:right;
 }
+div{
+    border:2px solid black;
+}
